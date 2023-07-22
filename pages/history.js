@@ -3,7 +3,7 @@ import { Card, ListGroup, Button } from "react-bootstrap";
 import { useAtom } from "jotai";
 import { searchHistoryAtom } from "@/store";
 import { useRouter } from "next/router";
-import styles from "@/styles/history.module.css";
+import styles from "@/styles/History.module.css";
 
 function History() {
   const [searchHistory, setSearchHistory] = useAtom(searchHistoryAtom);

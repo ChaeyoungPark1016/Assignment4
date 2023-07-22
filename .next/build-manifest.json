@@ -1,0 +1,66 @@
+{
+  "polyfillFiles": [
+    "static/chunks/polyfills-78c92fac7aa8fdd8.js"
+  ],
+  "devFiles": [],
+  "ampDevFiles": [],
+  "lowPriorityFiles": [
+    "static/EmByf9kxaqi8rsMkZiJO_/_buildManifest.js",
+    "static/EmByf9kxaqi8rsMkZiJO_/_ssgManifest.js"
+  ],
+  "rootMainFiles": [],
+  "pages": {
+    "/": [
+      "static/chunks/webpack-ee7e63bc15b31913.js",
+      "static/chunks/framework-305cb810cde7afac.js",
+      "static/chunks/main-f21ffcaaeccf56c7.js",
+      "static/chunks/pages/index-48cb04a71e12d519.js"
+    ],
+    "/_app": [
+      "static/chunks/webpack-ee7e63bc15b31913.js",
+      "static/chunks/framework-305cb810cde7afac.js",
+      "static/chunks/main-f21ffcaaeccf56c7.js",
+      "static/css/aafb957ab820c440.css",
+      "static/chunks/pages/_app-903fde59a84f549f.js"
+    ],
+    "/_error": [
+      "static/chunks/webpack-ee7e63bc15b31913.js",
+      "static/chunks/framework-305cb810cde7afac.js",
+      "static/chunks/main-f21ffcaaeccf56c7.js",
+      "static/chunks/pages/_error-54de1933a164a1ff.js"
+    ],
+    "/artwork": [
+      "static/chunks/webpack-ee7e63bc15b31913.js",
+      "static/chunks/framework-305cb810cde7afac.js",
+      "static/chunks/main-f21ffcaaeccf56c7.js",
+      "static/chunks/pages/artwork-b54a1e12d58629f5.js"
+    ],
+    "/artwork/[objectID]": [
+      "static/chunks/webpack-ee7e63bc15b31913.js",
+      "static/chunks/framework-305cb810cde7afac.js",
+      "static/chunks/main-f21ffcaaeccf56c7.js",
+      "static/chunks/pages/artwork/[objectID]-5c2f5c3f2ecc77b7.js"
+    ],
+    "/favourites": [
+      "static/chunks/webpack-ee7e63bc15b31913.js",
+      "static/chunks/framework-305cb810cde7afac.js",
+      "static/chunks/main-f21ffcaaeccf56c7.js",
+      "static/chunks/pages/favourites-081f708751756432.js"
+    ],
+    "/history": [
+      "static/chunks/webpack-ee7e63bc15b31913.js",
+      "static/chunks/framework-305cb810cde7afac.js",
+      "static/chunks/main-f21ffcaaeccf56c7.js",
+      "static/css/d91c12c7ddbfc48b.css",
+      "static/chunks/pages/history-a1cfd45f9bbfaf9a.js"
+    ],
+    "/search": [
+      "static/chunks/webpack-ee7e63bc15b31913.js",
+      "static/chunks/framework-305cb810cde7afac.js",
+      "static/chunks/main-f21ffcaaeccf56c7.js",
+      "static/chunks/282-2ac611e8057037fe.js",
+      "static/chunks/pages/search-9289a33e41777e8e.js"
+    ]
+  },
+  "ampFirstPages": []
+}

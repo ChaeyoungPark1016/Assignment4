@@ -1,0 +1,12 @@
+{
+  "/_app": "pages/_app.js",
+  "/_document": "pages/_document.js",
+  "/artwork/[objectID]": "pages/artwork/[objectID].html",
+  "/artwork": "pages/artwork.html",
+  "/favourites": "pages/favourites.html",
+  "/": "pages/index.html",
+  "/search": "pages/search.html",
+  "/_error": "pages/_error.js",
+  "/history": "pages/history.html",
+  "/404": "pages/404.html"
+}

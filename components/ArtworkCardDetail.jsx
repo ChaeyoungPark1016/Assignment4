@@ -4,7 +4,8 @@ import Error from "next/error";
 
 import { Card, Button } from "react-bootstrap";
 import { useAtom } from "jotai";
-import { favouritesAtom } from "@/store:";
+import { favouritesAtom } from '@/store';
+
 
 function ArtworkCardDetail({ objectID }) {
   const [favourites, setFavourites] = useAtom(favouritesAtom);
